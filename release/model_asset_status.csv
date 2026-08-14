@@ -1,0 +1,13 @@
+trait,target,publication_label,unit,artifact_status,weight_sha256,config_sha256,paper_oof_evidence_available
+SRF,skin_break_force_g_mean,Maximum penetration force,gf,pending_final_refit,,,True
+RD,skin_break_displacement_raw_mean,Registered-event position,archive position unit,pending_final_refit,,,True
+PFD,skin_break_drop_g_mean,Registered post-event force drop,gf,pending_final_refit,,,True
+MFF,flesh_force_mean_g_mean,Mean flesh force,gf,pending_final_refit,,,True
+F6,force_at_6_rawpos_g_mean,Force at 6 archive position units,gf,pending_final_refit,,,True
+LS,loading_stiffness_g_per_rawpos_mean,Loading stiffness,gf per archive position unit,pending_final_refit,,,True
+LW,loading_work_g_rawpos_mean,Loading work,gf × archive position unit,pending_final_refit,,,True
+PRW,post_break_work_g_rawpos_mean,Registered post-event work,gf × archive position unit,pending_final_refit,,,True
+AF,adhesive_force_g_mean,Adhesive force,gf,pending_final_refit,,,True
+FW,fruit_weight_g,Fruit weight,g,pending_final_refit,,,True
+SSC,soluble_solids_pct,Soluble solids content,%,pending_final_refit,,,True
+pH,ph,pH,,pending_final_refit,,,True

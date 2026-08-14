@@ -1,0 +1,16 @@
+field,value
+model_name,PlumSPECTRA CEA V29
+intended_use,Screening of fruit weight SSC pH and nine mechanical texture endpoints from intact-plum NIR spectra within a monitored calibration domain
+input,228 absorbance bands from 901.032 to 1700.792 nm plus registered cultivar identity for the cultivar-aware anchor
+outputs,One independently fitted continuous prediction for each of 12 traits
+validated_population,4853 fruit from 15 registered cultivars for texture and 4843 complete cases for conventional traits
+primary_evaluation,Frozen cultivar-stratified five-fold out-of-fold interpolation
+supported_use,Ranking and screening within registered cultivars and the observed acquisition system with reference monitoring
+unsupported_use,Zero-shot prediction for unseen cultivars years orchards instruments or unmonitored acquisition systems
+batch_update_evidence,Five held batches from two cultivars only
+reference_guidance,10 labelled fruit was the descriptive early-return point and 20-40 fruit the practical cost-stability window in the observed held-batch audit
+strongest_texture_outputs,Loading stiffness maximum penetration force and registered post-event force drop
+weakest_texture_output,Force at six archive position units
+distance_unit_limit,Position-derived endpoints retain archive position units because numeric Motor Steps per mm calibration was absent
+monitoring_trigger,Recalibrate when batch instrument operator orchard year or cultivar differs from the registered domain
+uncertainty_limit,Held-batch intervals describe five batches and are not population-level external-validation intervals
