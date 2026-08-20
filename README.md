@@ -7,7 +7,7 @@ Public model-metadata repository for the 12 trait-specific PlumSPECTRA systems.
 
 ![Figure 3. PlumSPECTRA architecture and leakage controls](docs/Figure_3.png)
 
-Figure 3 is the only manuscript-derived figure authorised for this repository.
+Figure 3 is the only manuscript-derived figure authorized for this repository.
 Other publication figures and manuscript files remain outside GitHub.
 
 ## Important status

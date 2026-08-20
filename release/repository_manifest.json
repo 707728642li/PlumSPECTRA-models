@@ -11,12 +11,12 @@
       "sha256": "d1f4168028fafb8812bfa9d75ed17136e655cbc1b6ab7bd861029ba18a7a9bae"
     },
     "CITATION.cff": {
-      "bytes": 490,
-      "sha256": "76932dff2bba1c07fa9e5e67d1f846cb000e44748ca6a14329825f819144e48b"
+      "bytes": 511,
+      "sha256": "a2fa84f927e787e8aa6644386fd7bc12eb91ac746000fcf4c69b1c91bd33d398"
     },
     "LICENSE": {
-      "bytes": 431,
-      "sha256": "bdfd327b92a9fe9b70ff066ee6b5d3e9e795ed79faa0dc6012773e5e724ceaac"
+      "bytes": 444,
+      "sha256": "1c80c2beaeffe1b0ac65acd1dfc6cfb079ac4c30cf78f37e7fc78aee8a5c5c84"
     },
     "MODEL_CARD.md": {
       "bytes": 1290,
@@ -24,15 +24,15 @@
     },
     "README.md": {
       "bytes": 1402,
-      "sha256": "a2878157b725ce4e8d1bb46b7250ef9dfd56ecd25beb64ad627f44124de2a1f1"
+      "sha256": "99651cf6bec338a89b24914607e4d971630843d4b7b9f16ce2b01edc6ed3a398"
     },
     "RELEASE_READINESS.md": {
       "bytes": 450,
       "sha256": "ec49ae38524d4ef47f14ab971e726c48aef38584728e558b97de1c082219aa67"
     },
     "SECURITY.md": {
-      "bytes": 370,
-      "sha256": "8c0be1c1fe3a79096f16143a7c28e77b1ed766934dd03ec37f6019946b021d8e"
+      "bytes": 380,
+      "sha256": "56ddf40bfebe23c6b759e6d748fa6ca7cf75e8c3d3cdbe82189bfc28c514187c"
     },
     "configs/cultivar_registry.csv": {
       "bytes": 983,
